@@ -1,0 +1,10 @@
+epoch: 0, iter: 0, loss: 420.0472717285156
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=0.010896220336222133, pvalue=0.7361160898755101), men: SpearmanrResult(correlation=-0.002670419203519804, pvalue=0.8929084818457579), sim353: SpearmanrResult(correlation=0.038718659102804545, pvalue=0.49214544510704206), nearest to monster: ['monster', 'many', 'arizona', 'soccer', 'cardano', 'jacksonville', 'turnovers', 'amplify', 'accorded', 'pelagius']
+epoch: 0, iter: 0, loss: 420.0472412109375
+epoch: 0, iteration: 0, simlex-999: SpearmanrResult(correlation=0.03469861466563566, pvalue=0.2815604446065848), men: SpearmanrResult(correlation=-0.014409315409363488, pvalue=0.4948006015180392), sim353: SpearmanrResult(correlation=-0.025749240062721175, pvalue=0.6447606792532871), nearest to monster: ['monster', 'plastid', 'hypnotherapy', 'rearrangement', 'greg', 'pipe', 'davidson', 'unbroken', 'phasing', 'reward']
+epoch: 0, iter: 100, loss: 193.82574462890625
+epoch: 0, iter: 200, loss: 139.68556213378906
+epoch: 0, iter: 300, loss: 154.5472869873047
+epoch: 0, iter: 400, loss: 115.33494567871094
+epoch: 0, iter: 500, loss: 125.71591186523438
+epoch: 0, iter: 600, loss: 109.02027893066406
